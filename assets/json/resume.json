@@ -949,41 +949,14 @@
     "template": "pikachu",
     "layout": [
       [
-        [
-          "summary",
-          "education",
-          "certifications",
-          "experience",
-          "references"
-        ],
-        [
-          "profiles",
-          "volunteer",
-          "languages"
-        ]
+        ["summary", "education", "certifications", "experience", "references"],
+        ["profiles", "volunteer", "languages"]
       ],
       [
-        [
-          "awards",
-          "custom.e5wj7pri7wkn6w5zbbm83e0z",
-          "publications",
-          "custom.vfqsx6m6sexdawtpf9vpt0af"
-        ],
-        [
-          "skills",
-          "custom.td020mvqkjokmwm334ij6yen",
-          "interests"
-        ]
+        ["awards", "custom.e5wj7pri7wkn6w5zbbm83e0z", "publications", "custom.vfqsx6m6sexdawtpf9vpt0af"],
+        ["skills", "custom.td020mvqkjokmwm334ij6yen", "interests"]
       ],
-      [
-        [
-          "custom.n3bc2atkircxbnz0qgicp7nk",
-          "projects"
-        ],
-        [
-          "custom.ahv294001ncowch1z72wvq3g"
-        ]
-      ]
+      [["custom.n3bc2atkircxbnz0qgicp7nk", "projects"], ["custom.ahv294001ncowch1z72wvq3g"]]
     ],
     "css": {
       "value": ".section {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
@@ -1006,9 +979,7 @@
       "font": {
         "family": "IBM Plex Sans",
         "subset": "latin",
-        "variants": [
-          "regular"
-        ],
+        "variants": ["regular"],
         "size": 14.5
       },
       "lineHeight": 1.5,
