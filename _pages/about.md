@@ -3,6 +3,7 @@ layout: about
 title: About
 permalink: /
 subtitle: A discord.py bot & full-stack developer on python myself a Robotics & Automation Engg undergrad student.
+cv_pdf: resume.pdf
 
 profile:
   align: right
@@ -18,7 +19,6 @@ news: false # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-
 Warm greetings from Dhruva Shaw,
 
 Myself a natural discord.py bot developer and a full stack developer using python. A Robotics Engineering undergrad student, my passion is with Electronics Automation and software projects related to the automation while using in-built AI.
