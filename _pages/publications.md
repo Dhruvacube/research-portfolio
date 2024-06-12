@@ -23,15 +23,16 @@ sections:
   - bibquery: "@data|@dataset"
     text: "Dataset"
 ---
+
 <!-- _pages/publications.md -->
 
 <div class="publications">
 
 {%- if page.sortby -%}
-    {%- for section in page.sections %}
-        `<a id="{{section.text}}"></a>`
-        `<p class="bibtitle">`{{section.text}}`</p>`
-        {%- for y in page.years %}
+{%- for section in page.sections %}
+`<a id="{{section.text}}"></a>`
+`<p class="bibtitle">`{{section.text}}`</p>`
+{%- for y in page.years %}
 
     {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
             {%- capture citecount -%}
