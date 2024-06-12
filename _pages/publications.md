@@ -2,7 +2,7 @@
 text: "Posters"
 layout: page
 permalink: /publications/
-title: Publications
+title: Publications/Datasets
 description:
 nav: true
 nav_order: 2
