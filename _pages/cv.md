@@ -1,9 +1,10 @@
 ---
 layout: cv
 permalink: /cv/
-newtab: true
-title: CV
-nav: true
+title: CVnav: false
 nav_order: 5
 cv_pdf: resume.pdf
+description: Explore my qualifications and experience in more detail.
+toc:
+  sidebar: left
 ---
