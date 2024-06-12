@@ -15,7 +15,7 @@ sections:
   #     text: "Conference and Workshop articles"
   - bibquery: "@poster"
     text: "Posters"
-  - bibquery: "@data|@dataset"
+  - bibquery: "@dataset"
     text: "Dataset"
 ---
 
