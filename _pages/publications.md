@@ -3,21 +3,22 @@ text: "Posters"
 layout: page
 permalink: /publications/
 title: Publications
-description: 
+description:
 nav: true
 nav_order: 2
-sortby: true        # true: Sort by types | false: Sort by years
+sortby: true # true: Sort by types | false: Sort by years
 years: [2024, 2023, 2022, 2021]
 sections:
   - bibquery: "@preprint"
     text: "Preprint articles"
-#   - bibquery: "@inproceedings"
-#     text: "Conference and Workshop articles"
+  #   - bibquery: "@inproceedings"
+  #     text: "Conference and Workshop articles"
   - bibquery: "@poster"
     text: "Posters"
   - bibquery: "@data|@dataset"
     text: "Dataset"
 ---
+
 <!-- _pages/publications.md -->
 
 <div class="publications">
