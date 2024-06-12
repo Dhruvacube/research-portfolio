@@ -11,14 +11,8 @@ years: [2024, 2023, 2022, 2021, 2020, 2019]
 sections:
   - bibquery: "@preprint"
     text: "Preprint articles"
-  - bibquery: "@article"
-    text: "Journal articles"
-  - bibquery: "@book|@incollection"
-    text: "Books and Book chapters"
-  - bibquery: "@inproceedings"
-    text: "Conference and Workshop articles"
-  - bibquery: "@misc|@thesis"
-    text: "Thesis"
+#   - bibquery: "@inproceedings"
+#     text: "Conference and Workshop articles"
   - bibquery: "@poster"
     text: "Posters"
   - bibquery: "@data|@dataset"
@@ -30,7 +24,8 @@ sections:
 
 {%- if page.sortby -%}
 {%- for section in page.sections %}
-<a id="{{section.text}}"></a>
+`<a id="{{section.text}}"></a>`
+
 <p class="bibtitle">{{section.text}}</p>
 {%- for y in page.years %}
 
