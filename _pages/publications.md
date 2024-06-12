@@ -3,7 +3,7 @@ text: "Posters"
 layout: page
 permalink: /publications/
 title: Publications
-description:
+description: All of my preprints, ideas, papers and posters.
 nav: true
 nav_order: 2
 sortby: true # true: Sort by types | false: Sort by years
