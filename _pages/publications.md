@@ -25,17 +25,15 @@ sections:
 
 {%- if page.sortby -%}
 {%- for section in page.sections %}
-`<a id="{{section.text}}"></a>`
+<a id="{{section.text}}"></a>
 
 <p class="bibtitle">{{section.text}}</p>
 {%- for y in page.years %}
 
-    {%- comment -%}  Count bibliography in actual section and year {%- endcomment -%}
             {%- capture citecount -%}
             {%- bibliography_count -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] -%}
             {%- endcapture -%}
 
-    {%- comment -%} If exist bibliography in actual section and year, print {%- endcomment -%}
             {%- if citecount !="0" %}
 
     {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] %}
