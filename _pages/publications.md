@@ -1,5 +1,6 @@
 ---
-text: "Posters"layout: page
+text: "Posters"
+layout: page
 permalink: /publications/
 title: Publications
 description: 
