@@ -2,7 +2,7 @@
 text: "Posters"
 layout: page
 permalink: /publications/
-title: Publications/Datasets
+title: Publications
 description:
 nav: true
 nav_order: 2
@@ -11,8 +11,6 @@ years: [2024, 2023, 2022, 2021]
 sections:
   - bibquery: "@preprint"
     text: "Preprint articles"
-  #   - bibquery: "@inproceedings"
-  #     text: "Conference and Workshop articles"
   - bibquery: "@poster"
     text: "Posters"
   - bibquery: "@dataset"
