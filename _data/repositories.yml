@@ -1,6 +1,8 @@
 github_users:
   - Dhruvacube
 
+repo_description_lines_max: 2
+
 github_repos:
   - Creatrix-Net/yondaime-hokage
   - Dhruvacube/shawdurgapuja
