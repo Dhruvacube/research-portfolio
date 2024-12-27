@@ -118,7 +118,7 @@
     {
       "organization": "IEEE Student Branch Lovely Professional University",
       "position": "Secretary",
-      "location": "Lovely Professional University",
+      "location": "LPU, India",
       "startDate": "2023-03-01",
       "endDate": "2023-12-01"
     },
@@ -139,15 +139,15 @@
   ],
   "languages": [
     {
-      "name": "Hindi",
+      "language": "Hindi",
       "fluency": "Native Speaker"
     },
     {
-      "name": "English",
+      "language": "English",
       "fluency": "Professional"
     },
     {
-      "name": "Bengali",
+      "language": "Bengali",
       "fluency": "Intermediate"
     }
   ],
@@ -179,7 +179,7 @@
       "name": "Microcontroller Boards",
       "level": "Master",
       "icon": "fa-microchip",
-      "items": [
+      "keywords": [
         "Arduino UNO",
         "ESP32",
         "Arduino LillyPad",
@@ -196,14 +196,14 @@
       "name": "Programming Languages",
       "level": "Master",
       "icon": "fa-microchip",
-      "items": ["Python", "Micropython", "MATLAB", "C", "Embedded C", "Ladder", "C++", "PHP", "JavaScript", "Java", "GoLang", "Assembly"]
+      "keywords": ["Python", "Micropython", "MATLAB", "C", "Embedded C", "Ladder", "C++", "PHP", "JavaScript", "Java", "GoLang", "Assembly"]
     }
   ],
   "interests": [
     {
       "name": "Robotics",
       "icon": "fa-solid fa-robot",
-      "items": [
+      "keywords": [
         "Embedded Systems",
         "Microcontrollers",
         "Automation",
@@ -219,7 +219,7 @@
     {
       "name": "Physics",
       "icon": "fa-solid fa-tag",
-      "items": [
+      "keywords": [
         "Quantum Mechanics",
         "Quantum Computing",
         "Quantum Information",
