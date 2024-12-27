@@ -19,33 +19,12 @@ sections:
 
 <!-- _pages/publications.md -->
 
+<!-- Bibsearch Feature -->
+
+{% include bib_search.liquid %}
+
 <div class="publications">
 
-{%- if page.sortby -%}
-{%- for section in page.sections %}
-<a id="{{section.text}}"></a>
-
-<p class="bibtitle">{{section.text}}</p>
-{%- for y in page.years %}
-
-            {%- capture citecount -%}
-            {%- bibliography_count -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] -%}
-            {%- endcapture -%}
-
-            {%- if citecount !="0" %}
-
-    {% bibliography -f {{site.scholar.bibliography}} -q {{section.bibquery}}[year={{y}}] %}
-
-    {%- endif -%}
-
-    {%- endfor %}
-
-    {%- endfor %}
-
-{%- else -%}
-
-    {% bibliography -f {{ site.scholar.bibliography }} %}
-
-{%- endif -%}
+{% bibliography %}
 
 </div>

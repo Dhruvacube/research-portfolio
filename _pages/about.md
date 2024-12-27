@@ -3,7 +3,6 @@ layout: about
 title: About
 permalink: /
 subtitle: A discord.py bot & full-stack developer on python myself a Robotics & Automation Engg undergrad student.
-cv_pdf: resume.pdf
 
 profile:
   align: right
@@ -16,7 +15,7 @@ profile:
     <p>creativenet@dhruvashaw.in</p>
 
 news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
