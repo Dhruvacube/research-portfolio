@@ -15,7 +15,7 @@ github_username: Dhruvacube # your GitHub user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 instagram_id: dhruva_shaw_ # your instagram id
 kaggle_id: dhruvacube # your kaggle id
-keybase_username: # your keybase user name
+# keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 linkedin_username: dhruva-shaw # your LinkedIn user name
@@ -38,10 +38,11 @@ stackoverflow_id: 12978554/dhruva-shaw # your stackoverflow id
 # whatsapp_number: # your WhatsApp number (full phone number in international format. Omit any zeroes, brackets, or dashes when adding the phone number in international format.)
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
-work_url: https://creativenet.dhruvashaw.in # work page URL
+# work_url: https://creativenet.dhruvashaw.in # work page URL
 # x_username: # your X handle
 youtube_id: DhruvaShaw # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
+rss_icon: true # set to true to show the RSS icon
 # custom_social: # can be any name here other than the ones already defined above
 #   logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
 #   title: Custom Social
