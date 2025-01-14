@@ -6,9 +6,6 @@ description: Konichiwa 👋, myself Minato Namikaze, Konohagakure Yondaime Hokag
 img: /assets/img/minatologo.jpeg
 importance: 2
 category: fun
-redirect: true
+redirect: https://creativenet.dhruvashaw.in/projects/mcba/
 newtab: true
-permalink: https://creativenet.dhruvashaw.in/projects/mcba/
 ---
-
-You will be redirected to the project page within 3 seconds. If not redirected, please [Click Here](https://creativenet.dhruvashaw.in/projects/mcba/).

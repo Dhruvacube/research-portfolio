@@ -6,7 +6,6 @@ img: /assets/img/mcba_logo.jpeg
 importance: 1
 category: fun
 giscus_comments: true
-redirect: true
+redirect: https://creativenet.dhruvashaw.in/projects/mcba/
 newtab: true
-permalink: https://creativenet.dhruvashaw.in/projects/mcba/
 ---
