@@ -7,5 +7,4 @@ importance: 1
 category: fun
 giscus_comments: true
 redirect: https://creativenet.dhruvashaw.in/projects/mcba/
-newtab: true
 ---

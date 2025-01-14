@@ -7,5 +7,4 @@ importance: 3
 category: fun
 giscus_comments: true
 redirect: https://creativenet.dhruvashaw.in/projects/fluxpointpy/
-newtab: true
 ---
