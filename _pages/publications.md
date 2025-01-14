@@ -6,8 +6,6 @@ title: Publications
 description: All of my preprints, ideas, papers and posters.
 nav: true
 nav_order: 2
-sortby: true # true: Sort by types | false: Sort by years
-years: [2024, 2023, 2022, 2021]
 sections:
   - bibquery: "@preprint"
     text: "Preprint articles"

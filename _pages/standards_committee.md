@@ -2,12 +2,12 @@
 layout: page
 permalink: /standards/
 title: Standards Development
-description: Standards development is a key part of the Creative Net mission. We are committed to developing and maintaining open standards that enable the interoperability of Creative Net services and the broader Internet.
+description: This page highlights the standards development groups I am a part of, showcasing the collaborative efforts involved in creating and refining industry standards.
 nav: true
 nav_order: 6
 ---
 
-Member(s) from Creative ate part of the following standards organizations and working groups:
+I am part of the following standards organizations and working groups:
 
 ## IEEE SA WG - P3120 [Standard for Quantum Computing Architecture]
 
