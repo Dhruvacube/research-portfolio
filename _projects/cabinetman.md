@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Cabinet Man
-description: "Cabinet Man" is an interactive game developed in Scratch, inspired by the song "Cabinet Man" by Lemon Demon. Created for the "Google Code to Learn 2018" initiative, this game combines music, storytelling, and engaging gameplay to create a fun and unique experience.
+description: The "Cabinet Man" is an interactive game developed in Scratch, inspired by the song "Cabinet Man" by Lemon Demon. Created for the "Google Code to Learn 2018" initiative, this game combines music, storytelling, and engaging gameplay to create a fun and unique experience.
 img: /assets/img/cabinetman.png
 importance: 6
-category: fun
+category: work
 giscus_comments: true
 _styles: >
   .containerpdf {
