@@ -28,9 +28,7 @@ _styles: >
 
 The "Osteoarthritis ML Model" is a groundbreaking project focused on creating a machine learning-based solution for the early detection of osteoarthritis, a degenerative joint disease that can lead to significant mobility issues. This project is being developed under the expert guidance of Dr. Bhaveshkumar C Dharmani, with collaboration facilitated by an MOU between LPU, Jalandhar, and AIIMS, Bhatinda, ensuring access to valuable medical resources and expertise.
 
-
 The AI/ML model uses Indian-specific medical databases and images, recognizing the unique physiological differences of the Indian population. By training the model on this tailored data, the system aims to provide more accurate diagnoses for osteoarthritis in Indian patients.
-
 
 Upon completion, the model will be deployed using Jetson Nano and integrated with X-ray machine hardware, allowing for seamless use in clinical settings. The primary goal of this project is to enable the early detection of osteoarthritis, ensuring that preventive measures and treatments are implemented at the right time to improve patient outcomes and quality of life.
 
