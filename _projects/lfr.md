@@ -12,5 +12,4 @@ The **Line Following Robot (LFR)** project is focused on creating a robot that a
 
 The project is ongoing, with development for **Techfest at IIT Bombay** (May 2023 - Present). The robot's circuit design and simulation are carried out using **Proteus**, while the **PCB design** is done using **EASY EDA**, which ensures an efficient and optimized layout. The combination of adaptive PID control and the robust design makes this LFR an innovative solution for autonomous navigation.
 
-
 [Github Repository](https://github.com/Dhruvacube/LFR)
