@@ -32,6 +32,4 @@ I would like to extend my gratitude to the songwriter P4LE C4RR0TZ (who prefers 
 
 Exclusively developed for the "Google Code to Learn 2018" initiative, "Cabinet Man" merges storytelling, music, and interactive gameplay within the Scratch platform. It offers players a chance to immerse themselves in a unique and engaging experience while showcasing the potential of creative coding in a fun and accessible way.
 
-<div class="containerpdf">
-    <iframe src="https://scratch.mit.edu/projects/238148859/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-</div>
+<iframe src="https://scratch.mit.edu/projects/238148859/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
