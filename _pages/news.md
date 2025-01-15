@@ -1,7 +1,7 @@
 ---
 layout: page
-title: News
-permalink: /news/
+title: Webinars/Lectures
+permalink: /webinarsandlectures/
 nav: true
 ---
 

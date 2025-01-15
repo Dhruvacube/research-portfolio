@@ -2,7 +2,7 @@
 layout: page
 title: LA22B
 description: The "LA22B" project was created to offer an alternative way for graduating students to experience a fun farewell during the COVID-19 pandemic, when traditional celebrations like farewells and school activities were not possible. This platform helps recreate memorable moments for students in a virtual setting.
-img: /assets/img/la22b.jpeg
+img: /assets/img/projects/la22b.jpeg
 importance: 5
 category: fun
 giscus_comments: true

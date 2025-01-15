@@ -2,7 +2,7 @@
 layout: page
 title: Osteoarthritis ML Model
 description: The "Osteoarthritis ML Model" aims to develop an AI/ML-based system for early detection of osteoarthritis using Indian-specific medical data and images. Guided by Dr. Bhaveshkumar C Dharmani and supported by an MOU between LPU, Jalandhar, and AIIMS, Bhatinda, this model will integrate with X-ray machines for enhanced diagnosis.
-img: /assets/img/osteoarthirites.jpg
+img: /assets/img/publication_preview/osteoarthirites.jpg
 importance: 3
 category: work
 giscus_comments: true

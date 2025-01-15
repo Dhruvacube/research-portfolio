@@ -36,6 +36,6 @@ Register here: [https://forms.gle/xAQoeprgkeNgaXEPA](https://forms.gle/xAQoeprgk
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/webinar_demystifying_autonomous_mobile_robotics.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+        {% include figure.liquid loading="eager" path="assets/img/webinars/webinar_demystifying_autonomous_mobile_robotics.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
